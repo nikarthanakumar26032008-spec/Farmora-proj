@@ -1,0 +1,39 @@
+[
+  {
+    "id": "usr_admin",
+    "name": "Platform Admin",
+    "email": "admin@farmora.com",
+    "password": "password123",
+    "role": "Admin",
+    "createdAt": "2026-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "usr_farmer1",
+    "name": "Ravi Kumar",
+    "email": "ravi@farmer.com",
+    "password": "password123",
+    "role": "Farmer",
+    "location": "Coimbatore",
+    "status": "approved",
+    "createdAt": "2026-01-10T11:00:00.000Z"
+  },
+  {
+    "id": "usr_farmer2",
+    "name": "Suresh Patel",
+    "email": "suresh@farmer.com",
+    "password": "password123",
+    "role": "Farmer",
+    "location": "Salem",
+    "status": "pending",
+    "createdAt": "2026-02-15T09:30:00.000Z"
+  },
+  {
+    "id": "usr_consumer1",
+    "name": "Priya Sharma",
+    "email": "priya@gmail.com",
+    "password": "password123",
+    "role": "Consumer",
+    "location": "Coimbatore",
+    "createdAt": "2026-02-20T14:15:00.000Z"
+  }
+]

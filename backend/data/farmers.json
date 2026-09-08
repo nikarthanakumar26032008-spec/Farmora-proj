@@ -1,0 +1,31 @@
+[
+  {
+    "id": "frm_1",
+    "userId": "usr_farmer1",
+    "name": "Ravi Kumar",
+    "email": "ravi@farmer.com",
+    "location": "Coimbatore",
+    "landArea": "3.5 acres",
+    "cropTypes": ["Tomato", "Paddy", "Groundnut"],
+    "photos": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?w=600"
+    ],
+    "status": "approved",
+    "submittedAt": "2026-01-10T11:00:00.000Z"
+  },
+  {
+    "id": "frm_2",
+    "userId": "usr_farmer2",
+    "name": "Suresh Patel",
+    "email": "suresh@farmer.com",
+    "location": "Salem",
+    "landArea": "2.0 acres",
+    "cropTypes": ["Chilli", "Onion"],
+    "photos": [
+      "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=600"
+    ],
+    "status": "pending",
+    "submittedAt": "2026-02-15T09:30:00.000Z"
+  }
+]

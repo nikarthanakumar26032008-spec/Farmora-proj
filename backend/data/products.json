@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod_1",
+    "farmerId": "usr_farmer1",
+    "farmerName": "Ravi Kumar",
+    "name": "Fresh Red Tomatoes",
+    "category": "Vegetables",
+    "totalStock": 500,
+    "sold": 330,
+    "remaining": 170,
+    "unit": "kg",
+    "price": 28,
+    "harvestDate": "2026-09-01",
+    "location": "Coimbatore",
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=600",
+    "createdAt": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "id": "prod_2",
+    "farmerId": "usr_farmer1",
+    "farmerName": "Ravi Kumar",
+    "name": "Organic Groundnut",
+    "category": "Nuts & Grains",
+    "totalStock": 800,
+    "sold": 600,
+    "remaining": 200,
+    "unit": "kg",
+    "price": 55,
+    "harvestDate": "2026-08-25",
+    "location": "Coimbatore",
+    "image": "https://images.unsplash.com/photo-1567167823405-ef847b5d5d0f?w=600",
+    "createdAt": "2026-08-25T08:00:00.000Z"
+  },
+  {
+    "id": "prod_3",
+    "farmerId": "usr_farmer2",
+    "farmerName": "Suresh Patel",
+    "name": "Fresh Sweet Watermelon",
+    "category": "Fruits",
+    "totalStock": 1200,
+    "sold": 400,
+    "remaining": 800,
+    "unit": "kg",
+    "price": 10,
+    "harvestDate": "2026-09-03",
+    "location": "Salem",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600",
+    "createdAt": "2026-09-03T10:00:00.000Z"
+  }
+]
